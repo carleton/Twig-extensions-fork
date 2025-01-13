@@ -1,5 +1,5 @@
 {
-    "name": "twig/extensions",
+    "name": "carleton/twig-extensions-fork",
     "description": "Common additional features for Twig that do not directly belong in core",
     "keywords": ["i18n","text"],
     "type": "library",
@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "twig/twig": "^1.27|^2.0"
+        "twig/twig": "^3.0"
     },
     "require-dev": {
         "symfony/phpunit-bridge": "^3.4",
